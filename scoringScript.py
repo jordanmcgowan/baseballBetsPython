@@ -536,31 +536,31 @@ def populateRoster(roster2):
 def main():
 
 
-   // TODO -- insert gameIDs
+   # TODO -- insert gameIDs
    gameIds = []
 
 
    managerList = [
        Manager(
-           // TODO -- insert name
+           # TODO -- insert name
            name="",
            totalPoints=0.0,
            gameResults=[],
            roster=populateRoster(
                SkeletonRoster(
-                   // TODO -- insert roster
+                   # TODO -- insert roster
                    playerIds=[],
                )
            ),
        ),
        Manager(
-           // TODO -- insert name
+           # TODO -- insert name
            name="",
            totalPoints=0.0,
            gameResults=[],
            roster=populateRoster(
                SkeletonRoster(
-                   // TODO -- insert roster
+                   # TODO -- insert roster
                    playerIds=[],
                )
            ),

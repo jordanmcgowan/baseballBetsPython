@@ -4,7 +4,7 @@ import statsapi
 
 def main():
    teams = [
-       // TODO -- insert teamID and teamName
+       # TODO -- insert teamID and teamName
        {"teamId": 0, "teamName": ""},
        {"teamId": 0, "teamName": ""},
    ]
